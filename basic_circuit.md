@@ -8,4 +8,9 @@ After the job have been run, the data is collected and postprocessed depending o
 Example to create a quantam circuit comprised of three qubits.
 1. Create circuit with the help of quantam registers.
 2. Add gates to manipulate the registers.
-3. By default each qiskit is initialized to |0>.
+3. Visualize the circuit which plots the circuit showm above.
+4. Simulate the circuit using quant_info moldule in qiskit.
+5. Execute the simulator and store the information that comes from executing the circuit.
+6. Visulize the result from classical simulator
+7. Assign job to real quantaum computer
+8. An example of devoping a classical circuit is attached in circuit_basic.ipynb.
